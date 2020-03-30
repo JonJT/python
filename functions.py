@@ -1,6 +1,5 @@
-#
 # Example file for working with functions
-#
+
 
 # define a basic function
 def func1():
